@@ -23,21 +23,21 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "@coinbase/x402": "^0.3.3",
-    "@hono/node-server": "^1.11.2",
+    "@coinbase/x402": "^0.5.0",
+    "@hono/node-server": "^1.19.10",
     "dotenv": "^16.4.5",
-    "hono": "^4.4.0",
+    "hono": "^4.9.6",
     "node-fetch": "^3.3.2",
     "siwe": "^2.3.2",
-    "viem": "^2.13.8",
-    "x402": "^0.3.2",
-    "x402-fetch": "^0.3.2",
-    "x402-hono": "^0.3.2"
+    "viem": "^2.50.3",
+    "x402": "^0.5.2",
+    "x402-fetch": "^0.5.0",
+    "x402-hono": "^0.5.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.2",
     "@types/node-fetch": "^2.6.11",
-    "tsx": "^4.11.0",
+    "tsx": "^4.22.0",
     "typescript": "^5.4.5"
   }
 }
